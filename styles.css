@@ -1,4 +1,4 @@
-General styles {
+
     * {
         margin: 0;
         padding: 0;
@@ -68,7 +68,7 @@ General styles {
             margin-right: 0;
         }
     }
-contact info {
+
     .contact-info__header,
   .contact-info__sub-header {
       text-align: center;
@@ -131,7 +131,7 @@ contact info {
       border: 3px solid;
       border-color: var(--text-decoration-color);
   }
-}
+
 .intro {
     display: flex;
     justify-content: start;
